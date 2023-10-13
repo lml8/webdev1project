@@ -4,6 +4,8 @@ Individual Project Videos - Work in Progress
 
 1. [Part 1 - NPM Setup, Playwright Setup, and Project Management with GitHub Issues.](https://youtu.be/Lkc1B5KZZfM)
 2. [Part 2 - Playwright Tests, Git Stash, and Playwright Video](https://youtu.be/V-Cf-lwtZ58)
+3. [Part 3 - Mid-term Golden Ratio Design Prep](https://youtu.be/Oy3tpy6100Y)
+4. [Part 4 - Mid-Term Lighthouse review and Design Informatino as well as Grading procedure](https://youtu.be/ObWBlUWgvXo)
 
 ## Install Instructions
 
